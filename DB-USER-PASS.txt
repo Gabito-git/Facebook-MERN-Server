@@ -1,0 +1,2 @@
+db_user: admin
+db_pass: dyKNh2CdC78xoh1C
